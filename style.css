@@ -45,6 +45,6 @@ h1{
 
 article{
 	background: white;
-	border-top-style: 5px solid green;
-	border-bottom-style: 5px solid red;
+	border-top: 5px solid green;
+	border-bottom: 5px solid red;
 }

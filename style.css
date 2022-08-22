@@ -39,3 +39,6 @@ h1 {
 }
 
 /* Your CSS below here */
+h1{
+	background-image: url("images/logo.png");
+}

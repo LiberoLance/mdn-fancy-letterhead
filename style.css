@@ -42,3 +42,7 @@ h1 {
 h1{
 	background-image: url("images/logo.png");
 }
+
+article{
+	background: white;
+}

@@ -46,12 +46,6 @@ h1{
 article{
 	background: white;
 	border-top: 5px solid green;
-	background-image: url("images/top-image.png");
-	background-position: top;
-	background-repeat: no-repeat;
-
+	background-image: url("images/top-image.png") no-repeat top, url("images/bottom-image.png") no-repeat bottom;
 	border-bottom: 5px solid red;
-	background-image: url("images/bottom-image.png");
-	background-position: bottom;
-	background-repeat: no-repeat;
 }

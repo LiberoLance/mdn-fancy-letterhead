@@ -48,6 +48,7 @@ article{
 	border-top: 5px solid green;
 	background-image: url("images/top-image.png");
 	background-position: top;
+	background-repeat: no-repeat;
 
 	border-bottom: 5px solid red;
 }

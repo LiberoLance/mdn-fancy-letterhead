@@ -52,6 +52,6 @@ article{
 
 	border-bottom: 5px solid red;
 	background-image: url("images/bottom-image.png");
-	background_position: bottom;
-	background_repeat: no-repeat;
+	background-position: bottom;
+	background-repeat: no-repeat;
 }
